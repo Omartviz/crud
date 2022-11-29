@@ -26,6 +26,11 @@ header {
 header h1 {
   color: white;
 }
+.footer{
+  color: white;
+  padding: 50px 30px;
+}
+
 .lista-citas .cita {
   border-bottom: 1px solid #e1e1e1;
   padding: 2rem;
